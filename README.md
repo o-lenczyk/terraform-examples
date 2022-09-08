@@ -1,1 +1,2 @@
-# terraform-examples
+# terraform examples
+practice before terraform exam
